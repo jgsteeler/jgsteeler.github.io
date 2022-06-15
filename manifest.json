@@ -1,0 +1,281 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/John.Gibson/OneDrive - DealerBuilt/Documents/Work/Notes/Documentation/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html",
+          "hash": "0NtzNAzMia3Fwtt3AJ4iYQAU33MdlPXzL/tCEjLUy5A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/coding/coding.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coding/coding.html",
+          "hash": "t/TjssgJt+9OclKPXghEUn+J3wkgUiD6fPc8Hl6yKLI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coding/csharp_coding_standards.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coding/csharp_coding_standards.html",
+          "hash": "GbbAvsYFsWlIRpgufWIqVYQ3y5d2L5V7vFfC16nzNfU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coding/docfx_getting_started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coding/docfx_getting_started.html",
+          "hash": "bHvmhob3prexYSR8TrV/KN3ErPE+WH00g2sOMvefQLs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coding/docfx_readme.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coding/docfx_readme.html",
+          "hash": "9vy3S2OHztflh5eMw9G96bQtJP/bdpltlzPeYGDt1yE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coding/engineering_guidelines.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coding/engineering_guidelines.html",
+          "hash": "Al6fpvAul5c2mskoKXW519hxsnRKJOrFNV4HSO1VWrw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/coding/visualstudio2022.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/coding/visualstudio2022.html",
+          "hash": "hLkP+BEEFE2L1YYFTN+IDsD52ngVGfSETCN4ANoJ0eY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html",
+          "hash": "rcn8GATQeKbOYi2yFZTZzxHZwrwEDWFifzHSODs/Iyg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/howto/clientdbinfofromdlrblt.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/howto/clientdbinfofromdlrblt.html",
+          "hash": "yNu2puMVi1+Q2p91S8tv+hoMiMkBocwfALWwj0IvRPQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/howto/howtos.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/howto/howtos.html",
+          "hash": "VCSN3HLmxrOxRIqZfQez5VuVAP9cpIy3vy+Z4Ypn2ZM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/support/support.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/support/support.html",
+          "hash": "r8VuusTbCnHIy88ZWCK0BfVnKdLFKDRE0KghBOyjx18="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "atBWNLnUMan120v3g/9wn53LZc0B54FPRvypVHsxPr0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/COLOR_POP.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/COLOR_POP.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/net_dlls.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/net_dlls.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/seed.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "images/seed.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/vs_version.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/vs_version.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Uv/4jqIHPiXZXO+vnAwFOxhlYAmp13b4URnEVuceVqE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "dt6xQtjD/RcHMMjiXQgPtwZhRDQrmmJBQ+U3PTwFHKg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 12,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
